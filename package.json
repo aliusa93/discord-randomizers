@@ -1,0 +1,23 @@
+{
+  "name": "discord-randomizers",
+  "version": "1.0.0",
+  "description": "A package that has several random number functions for your discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliusa93/discord-randomizers.git"
+  },
+  "keywords": [
+    "discord",
+    "random"
+  ],
+  "author": "Sensei Goose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliusa93/discord-randomizers/issues"
+  },
+  "homepage": "https://github.com/aliusa93/discord-randomizers#readme"
+}
