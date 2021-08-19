@@ -6,7 +6,7 @@
 
 ## Code
 
-```
+```js
 const Discord = require('discord.js')
 const client = new Discord.Client()
 const random = require('discord-randomizers')
@@ -16,7 +16,7 @@ client.on('message', message => {
         const rate = random.randomNum(100)
         const target = message.mentions.members.first() || message.author
 
-        message.channel.send(`${target.user.tag} is ${rate} percent simp.`)
+        message.channel.send(`${target} is ${rate} percent simp.`)
     }
 })
 ```
