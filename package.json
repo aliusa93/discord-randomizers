@@ -1,6 +1,6 @@
 {
   "name": "discord-randomizers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that has several random number functions for your discord bot.",
   "main": "index.js",
   "scripts": {
