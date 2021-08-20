@@ -1,6 +1,6 @@
 {
   "name": "discord-randomizers",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "A package that has several random number functions for your discord bot.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aliusa93/discord-randomizers/issues"
   },
-  "homepage": "https://github.com/aliusa93/discord-randomizers#readme"
+  "homepage": "https://github.com/aliusa93/discord-randomizers#readme",
+  "dependencies": {
+    "random-string": "^0.2.0"
+  }
 }
